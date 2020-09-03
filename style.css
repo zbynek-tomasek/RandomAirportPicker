@@ -20,7 +20,7 @@ button {
 }
 
 h1 {
-    color: #e600a0;
+    color: #FFAAAA;
 }
 
 h2 {
@@ -38,7 +38,7 @@ div.col {
 }
 
 button {
-    background-color: #e600a0;
+    background-color: #FFAAAA;
     border-radius: 5px;
     padding: 20px 50px;
     color: white;
